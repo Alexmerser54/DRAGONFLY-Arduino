@@ -1,4 +1,4 @@
-int modes;
+volatile int modes;
 int delaysOn[5] = { 400, 1000, 3000, 4000 };
 int delaysOff[5] = { 400, 500, 1500, 3000 };
 
